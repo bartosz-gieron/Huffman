@@ -1,0 +1,6 @@
+C:\Users\banuk\Documents\Visual Studio 2017\Projects\Aikd\Aikd\obj\Debug\Aikd.csprojAssemblyReference.cache
+C:\Users\banuk\Documents\Visual Studio 2017\Projects\Aikd\Aikd\bin\Debug\Aikd.exe.config
+C:\Users\banuk\Documents\Visual Studio 2017\Projects\Aikd\Aikd\bin\Debug\Aikd.exe
+C:\Users\banuk\Documents\Visual Studio 2017\Projects\Aikd\Aikd\bin\Debug\Aikd.pdb
+C:\Users\banuk\Documents\Visual Studio 2017\Projects\Aikd\Aikd\obj\Debug\Aikd.exe
+C:\Users\banuk\Documents\Visual Studio 2017\Projects\Aikd\Aikd\obj\Debug\Aikd.pdb
